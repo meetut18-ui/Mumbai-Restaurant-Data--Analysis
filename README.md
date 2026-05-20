@@ -2,6 +2,9 @@
 
 Mumbai Restaurant Analysis & Customer Preferences
 
+##Dashboard Preview!
+Screenshot(133).png
+
 2.Ask  Phase
 
 1.In which area/region of Mumbai  are the majority of the restaurants  located?
